@@ -1,4 +1,4 @@
-# Match Inteligente - IA-MATCH !
+# Match Inteligente - IA-MATCH 
 
 ## Sobre o Projeto
 
