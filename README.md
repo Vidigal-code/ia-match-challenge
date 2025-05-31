@@ -274,9 +274,9 @@ npm install
 
 3. Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:
 ```
-VITE_API_MATCH_PEOPLES_DATA=/data/peopledata.json
-VITE_API_MATCH_AREAS_DATA=/data/areadata.json
-VITE_API_MATCH_LOGO_URL=/assets/operadoraIA-MATCH_logo.jpg
+VITE_API_MATCH_PEOPLES_DATA=data/peopledata.json
+VITE_API_MATCH_AREAS_DATA=data/areadata.json
+VITE_API_MATCH_LOGO_URL=assets/icon-ia-match.png
 VITE_API_MATCH_HOW_MANY_WERE_FOUND=6
 ```
 
