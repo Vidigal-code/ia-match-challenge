@@ -1,0 +1,84 @@
+{
+  "areadatas": [
+    {
+      "id": 1,
+      "area": "Tecnologia"
+    },
+    {
+      "id": 2,
+      "area": "Direito"
+    },
+    {
+      "id": 3,
+      "area": "Consultoria"
+    },
+    {
+      "id": 4,
+      "area": "Educação"
+    },
+    {
+      "id": 5,
+      "area": "Saúde"
+    },
+    {
+      "id": 6,
+      "area": "Engenharia"
+    },
+    {
+      "id": 7,
+      "area": "Arquitetura"
+    },
+    {
+      "id": 8,
+      "area": "Marketing"
+    },
+    {
+      "id": 9,
+      "area": "Recursos Humanos"
+    },
+    {
+      "id": 10,
+      "area": "Administração"
+    },
+    {
+      "id": 11,
+      "area": "Finanças"
+    },
+    {
+      "id": 12,
+      "area": "Contabilidade"
+    },
+    {
+      "id": 13,
+      "area": "Psicologia"
+    },
+    {
+      "id": 14,
+      "area": "Design"
+    },
+    {
+      "id": 15,
+      "area": "Comunicação"
+    },
+    {
+      "id": 16,
+      "area": "Logística"
+    },
+    {
+      "id": 17,
+      "area": "Turismo"
+    },
+    {
+      "id": 18,
+      "area": "Segurança da Informação"
+    },
+    {
+      "id": 19,
+      "area": "Biotecnologia"
+    },
+    {
+      "id": 20,
+      "area": "Jornalismo"
+    }
+  ]
+}

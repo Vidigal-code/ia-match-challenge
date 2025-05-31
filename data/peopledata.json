@@ -1,0 +1,179 @@
+{
+  "peopledatas": [
+    {
+      "id": 11,
+      "name": "Luciana Torres",
+      "area": "Educação",
+      "location": "Curitiba",
+      "description": "Educadora com foco em metodologias ativas e ensino híbrido."
+    },
+    {
+      "id": 12,
+      "name": "Marcos Antunes",
+      "area": "Engenharia",
+      "location": "Belo Horizonte",
+      "description": "Engenheiro civil com experiência em obras sustentáveis."
+    },
+    {
+      "id": 13,
+      "name": "Nádia Castro",
+      "area": "Arquitetura",
+      "location": "São Paulo",
+      "description": "Arquiteta especialista em urbanismo e espaços colaborativos."
+    },
+    {
+      "id": 14,
+      "name": "Otávio Menezes",
+      "area": "Marketing",
+      "location": "Rio de Janeiro",
+      "description": "Estrategista digital com foco em branding jurídico."
+    },
+    {
+      "id": 15,
+      "name": "Paula Brito",
+      "area": "Recursos Humanos",
+      "location": "Brasília",
+      "description": "Especialista em recrutamento tech e gestão de talentos."
+    },
+    {
+      "id": 16,
+      "name": "Rafael Lima",
+      "area": "Administração",
+      "location": "Salvador",
+      "description": "Administrador com experiência em gestão de escritórios jurídicos."
+    },
+    {
+      "id": 17,
+      "name": "Sandra Oliveira",
+      "area": "Finanças",
+      "location": "São Paulo",
+      "description": "Consultora financeira com foco em planejamento para advogados."
+    },
+    {
+      "id": 18,
+      "name": "Thiago Rezende",
+      "area": "Contabilidade",
+      "location": "Campinas",
+      "description": "Contador com experiência em compliance fiscal para IA-MATCH techs."
+    },
+    {
+      "id": 19,
+      "name": "Úrsula Ribeiro",
+      "area": "Psicologia",
+      "location": "Porto Alegre",
+      "description": "Psicóloga organizacional com atuação em escritórios de advocacia."
+    },
+    {
+      "id": 20,
+      "name": "Vinícius Duarte",
+      "area": "Design",
+      "location": "Recife",
+      "description": "Designer UX/UI com foco em soluções para plataformas jurídicas."
+    },
+    {
+      "id": 21,
+      "name": "Wesley Farias",
+      "area": "Comunicação",
+      "location": "Fortaleza",
+      "description": "Jornalista e comunicador interno em empresas de tecnologia."
+    },
+    {
+      "id": 22,
+      "name": "Ximena Lopes",
+      "area": "Logística",
+      "location": "São Luís",
+      "description": "Especialista em logística de documentos jurídicos."
+    },
+    {
+      "id": 23,
+      "name": "Yasmin Araújo",
+      "area": "Turismo",
+      "location": "Natal",
+      "description": "Agente de viagens corporativas com foco em clientes do setor jurídico."
+    },
+    {
+      "id": 24,
+      "name": "Zeca Barros",
+      "area": "Segurança da Informação",
+      "location": "São Paulo",
+      "description": "Especialista em cibersegurança para escritórios de advocacia."
+    },
+    {
+      "id": 25,
+      "name": "Alice Nogueira",
+      "area": "Biotecnologia",
+      "location": "Campinas",
+      "description": "Pesquisadora em biotecnologia jurídica e patentes."
+    },
+    {
+      "id": 26,
+      "name": "Bruno Araújo",
+      "area": "Jornalismo",
+      "location": "Belo Horizonte",
+      "description": "Repórter especializado em cobertura de tecnologia e direito."
+    },
+    {
+      "id": 27,
+      "name": "Carolina Freitas",
+      "area": "Educação",
+      "location": "Florianópolis",
+      "description": "Professora universitária com pesquisas em direito e inovação."
+    },
+    {
+      "id": 28,
+      "name": "Diego Tavares",
+      "area": "Engenharia",
+      "location": "Rio de Janeiro",
+      "description": "Engenheiro de software com foco em automação jurídica."
+    },
+    {
+      "id": 29,
+      "name": "Eduarda Maia",
+      "area": "Design",
+      "location": "São Paulo",
+      "description": "Designer gráfico com experiência em identidade visual para advogados."
+    },
+    {
+      "id": 30,
+      "name": "Fábio Santos",
+      "area": "Tecnologia",
+      "location": "Goiânia",
+      "description": "Engenheiro de dados focado em análise preditiva jurídica."
+    },
+    {
+      "id": 31,
+      "name": "Giovana Souza",
+      "area": "Finanças",
+      "location": "Curitiba",
+      "description": "Planejadora financeira para escritórios de médio porte."
+    },
+    {
+      "id": 32,
+      "name": "Heitor Almeida",
+      "area": "Psicologia",
+      "location": "Manaus",
+      "description": "Psicólogo clínico com atendimento a profissionais do direito."
+    },
+    {
+      "id": 33,
+      "name": "Isis Moura",
+      "area": "Comunicação",
+      "location": "Belém",
+      "description": "Assessora de imprensa com experiência em casos jurídicos."
+    },
+    {
+      "id": 34,
+      "name": "Jonas Batista",
+      "area": "Contabilidade",
+      "location": "Vitória",
+      "description": "Especialista em contabilidade tributária para IA-MATCH operations."
+    },
+    {
+      "id": 35,
+      "name": "Kelly Ramos",
+      "area": "Recursos Humanos",
+      "location": "João Pessoa",
+      "description": "HR Business Partner para empresas de tecnologia jurídica."
+    }
+  ]
+}
