@@ -127,12 +127,13 @@ const Match: React.FC = () => {
                                                     style={{top: '100%'}}
                                                 >
                                                     {PotentialAreaDataResults.map((area) => (
-                                                        <li
-                                                            key={area.id}
-                                                            onClick={() => handleSelectArea(area.area)}
-                                                            className="text-left p-3 cursor-pointer hover:bg-gray-100"
-                                                        >
-                                                            {area.area}
+                                                        <li key={area.id}>
+                                                            <button
+                                                                onClick={() => handleSelectArea(area.area)}
+                                                                className="text-left w-full text-start p-3 cursor-pointer hover:bg-gray-100"
+                                                            >
+                                                                {area.area}
+                                                            </button>
                                                         </li>
                                                     ))}
                                                 </ul>
